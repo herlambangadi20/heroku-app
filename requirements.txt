@@ -1,0 +1,8 @@
+Flask==2.0.3
+requests
+gunicorn==20.1.0
+psycopg2==2.7.6.1
+
+
+
+
